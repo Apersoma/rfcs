@@ -1,4 +1,4 @@
-- Feature Name: dead-code-lint-depraction
+- Feature Name: dead-code-lint-deprecation
 - Start Date: 2/28/2026
 - RFC PR: [rust-lang/rfcs#0000](https://github.com/rust-lang/rfcs/pull/0000)
 - Rust Issue: [rust-lang/rust#0000](https://github.com/rust-lang/rust/issues/0000)
